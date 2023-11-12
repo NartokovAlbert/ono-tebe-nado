@@ -104,12 +104,6 @@
   letter-spacing: 20px;
 }
 
-.aligned-text_right {
-  text-align: right;
-  line-height: 100%;
-  z-index: 0;
-}
-
 .cover__description {
   letter-spacing: normal;
   z-index: 0;
